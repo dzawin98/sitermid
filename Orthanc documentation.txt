@@ -1,0 +1,7 @@
+Orthanc documentation:
+
+1. Install orthanc
+2. Add DB "sistermid" to mysql DB
+3. Configure file C:\Program Files\Orthanc Server\Configuration\mysql.json
+4. Configure "RemoteAccessAllowed" : true, and "AuthenticationEnabled" : false,
+in C:\Program Files\Orthanc Server\Configuration\orthanc-explorer-2.json
